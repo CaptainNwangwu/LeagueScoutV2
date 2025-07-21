@@ -8,10 +8,9 @@ A data-driven League of Legends scouting tool + draft assistant.
 - Match/tourney history scraper (from op.gg or Riot API. TBD)
 
 ## 🔧 Tech Stack
-- Backend: C# (.NET) or Python
+- Backend: C# (ASP.NET)
 - DB: PostgreSQL
-- Bot: Discord (`discord.py`)
-- Scraping: BeautifulSoup / requests
+- Scraping: Python (BeautifulSoup / requests)
 - Caching: Redis (later)
 
 ## 📌 Project Status
